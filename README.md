@@ -1,3 +1,3 @@
-# Filebot
+# Windows User Bot
 
-This bot connects to two network shares and simulates some basic user actions. One of the shares needs authentication over username/password. The other share doesn't need an authentication.
+The `PowerShell` functions provided in this repository are used to simulate some basic user actions on Windows clients. The code in this repository gets reworked since it was previously used to only simulate user interaction with fileshares. More functionality gets added as soon as more requirements are available.
